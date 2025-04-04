@@ -34,6 +34,10 @@ A proposta é que este repositório cresça ao longo do tempo, incluindo persona
 
 > Foco em Clean Architecture, modularidade, uso idiomático da linguagem, crates modernos (actix-web, tokio, serde, etc), segurança e desempenho — sempre explicando os conceitos fundamentais de Rust com abordagem pedagógica.
 
+### 4. Especialista em Desenvolvimento Frontend com Angular
+
+> Foco em Angular moderno (v15+), componentização, RxJS, integração com APIs RESTful (especialmente backends Java/Spring Boot), boas práticas com TypeScript e abordagem didática voltada ao aprendizado.
+
 
 ## 💡 Como usar
 
