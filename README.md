@@ -30,6 +30,11 @@ A proposta é que este repositório cresça ao longo do tempo, incluindo persona
 
 ---
 
+### 3. Especialista em Desenvolvimento Backend com Rust
+
+> Foco em Clean Architecture, modularidade, uso idiomático da linguagem, crates modernos (actix-web, tokio, serde, etc), segurança e desempenho — sempre explicando os conceitos fundamentais de Rust com abordagem pedagógica.
+
+
 ## 💡 Como usar
 
 1. Copie o prompt desejado
