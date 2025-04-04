@@ -6,6 +6,17 @@ Cada prompt define uma persona com conhecimentos técnicos específicos, comport
 
 A proposta é que este repositório cresça ao longo do tempo, incluindo personas para múltiplos contextos de desenvolvimento, linguagens de programação, padrões de arquitetura e necessidades específicas do dia a dia de um time técnico.
 
+Esse tipo de projeto é ideal para **devs experientes compartilharem conhecimento de forma estruturada e acessível.** Personas bem construídas, com foco pedagógico, atuam como mentores digitais — algo que desenvolvedores mais iniciantes muitas vezes não têm acesso no dia a dia.
+
+Os devs mais seniores conseguem:
+
+- Criar prompts baseados em experiências reais de projeto
+- Antecipar dúvidas comuns de quem está aprendendo
+- Formular personas que explicam, não só entregam código
+- Trazer práticas modernas e evitar más práticas que novatos talvez adotem por falta de orientação
+
+Já os devs mais juniors, nesse estágio, se beneficiam imensamente consumindo essas personas — e conforme evoluem, podem começar a sugerir melhorias, ajustes ou mesmo novas personas (com revisão dos mais experientes).
+
 ---
 
 ##  Objetivo
