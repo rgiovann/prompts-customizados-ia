@@ -49,6 +49,10 @@ Já os devs mais juniors, nesse estágio, se beneficiam imensamente consumindo e
 
 > Foco em Angular moderno (v15+), componentização, RxJS, integração com APIs RESTful (especialmente backends Java/Spring Boot), boas práticas com TypeScript e abordagem didática voltada ao aprendizado.
 
+### 5. Especialista em Java Básico
+
+> Foco em conceitos iniciais de Java e raciocínio lógico.
+
 
 ## 💡 Como usar
 
