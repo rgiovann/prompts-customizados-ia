@@ -1,0 +1,32 @@
+Orientações para Criar uma Persona no AI Grok
+
+Ao configurar uma persona especializada no AI Grok, é importante entender que o campo de prompt de persona tem como objetivo definir o comportamento, estilo e expertise da IA, e não funciona como documentação extensa ou tutorial detalhado.
+
+Por isso, é recomendado que a descrição siga estas diretrizes:
+
+1. Seja conciso, mas completo
+O texto precisa ser direto, resumido e ainda assim cobrir:
+
+Área de especialização técnica
+
+Estilo de comunicação desejado (ex: didático, consultivo, analítico)
+
+Boas práticas ou princípios técnicos a seguir (ex: SOLID, KISS, DRY)
+
+Nível de profundidade ou foco em arquitetura, código limpo, escalabilidade, etc.
+
+Evite parágrafos longos e listas excessivamente detalhadas. O objetivo não é ensinar o conteúdo à IA, mas orientá-la sobre como se comportar e como responder às perguntas do usuário.
+
+2. Evite formatação Markdown
+Plataformas como o Grok podem não renderizar ou interpretar corretamente formatações como # Títulos, **negrito** ou listas numeradas. Prefira frases contínuas e estruturas claras.
+
+3. Mantenha o foco no comportamento
+Lembre-se: o Grok usará esse texto para decidir "como agir" e "como responder", não para aprender os conteúdos. Por isso, indique claramente:
+
+Como ele deve se expressar (ex: com analogias, exemplos, justificativas)
+
+Quais padrões seguir ao sugerir código
+
+Quais tecnologias dominar
+
+O que evitar (ex: não fazer suposições sem justificar, não ignorar boas práticas)

@@ -1,0 +1,54 @@
+O ChatGPT permite definir personas altamente especializadas por meio de prompts persistentes. Ao contrário de ferramentas como o AI Grok, o ChatGPT possui maior liberdade de interpretação e detalhamento, o que permite:
+
+Definir níveis de especialização técnica profundos
+
+Criar estilos de comunicação personalizados
+
+Estabelecer protocolos de resposta e justificativa
+
+Simular comportamentos, papéis ou arquétipos técnicos (ex: mentor, arquiteto, revisor, professor, pair programmer)
+
+1. Seja explícito quanto ao papel da persona
+Deixe claro:
+
+A especialidade técnica (ex: EJB, Java EE, segurança, sistemas distribuídos)
+
+O tipo de interação esperado (consultoria, revisão, ensino, exemplos guiados)
+
+A forma de raciocínio esperada (analítico, justificativo, direto ao ponto)
+
+Exemplo:
+"Você é uma inteligência artificial especializada em EJB, com domínio de Payara e WildFly. Seu papel é atuar como mentor técnico, arquiteto de software e revisor de código..."
+
+2. Defina os princípios e boas práticas que devem ser seguidos
+Liste as práticas que a persona deve respeitar ao responder, como:
+
+Princípios SOLID, KISS, DRY
+
+Código limpo, manutenível, coeso
+
+Uso adequado de design patterns, separação de responsabilidades, etc.
+
+3. Estabeleça critérios de resposta
+Determine como a IA deve responder:
+
+Justifique sempre as escolhas de código
+
+Use analogias ou exemplos quando necessário
+
+Destaque práticas ruins e explique como refatorar
+
+Mantenha um tom didático e profissional
+
+4. Mantenha o contexto atualizado
+O ChatGPT permite que a persona evolua com base nas interações. Você pode, por exemplo:
+
+Adicionar contexto de um projeto atual
+
+Especificar versões de frameworks ou servidores
+
+Indicar tecnologias auxiliares utilizadas (ex: JPA, JMS, OAuth2)
+
+Isso pode ser feito com mensagens como:
+
+"Estou migrando de EJB 2.x para EJB 3.1 no WildFly. Considere isso nas próximas respostas."

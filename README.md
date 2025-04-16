@@ -51,7 +51,7 @@ Já os devs mais juniors, nesse estágio, se beneficiam imensamente consumindo e
 
 ### 5. Especialista em Java Básico
 
-> Foco em conceitos iniciais de Java e raciocínio lógico.
+> Foco em conceitos iniciais de Java e raciocínio l.
 
 
 ## 💡 Como usar
